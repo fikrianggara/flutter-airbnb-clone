@@ -1,0 +1,1954 @@
+{
+  "status": true,
+  "message": "Success",
+  "timestamp": 1701511044867,
+  "data": [
+    {
+      "avgRating": 4.81,
+      "listingBathroomLabel": "1 bath",
+      "bathrooms": 1,
+      "listingBedLabel": "1 bed",
+      "bedrooms": 1,
+      "beds": 1,
+      "businessHostLabel": null,
+      "city": "Kecamatan Menteng",
+      "configurableContent": null,
+      "contextualPicturesPageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ=="
+      },
+      "emergencyMessage": null,
+      "listingFloatingMessage": null,
+      "formattedBadges": [
+        {
+          "textColor": "#222222",
+          "text": "Superhost",
+          "borderColor": "rgba(0, 0, 0, 0.2)",
+          "backgroundColor": "rgba(255, 255, 255, 0.95)"
+        }
+      ],
+      "listingGuestLabel": "2 guests",
+      "id": "40028903",
+      "isAutoTranslated": false,
+      "isNewListing": false,
+      "isSuperhost": true,
+      "relaxedFilterLabels": null,
+      "localizedCityName": "Kecamatan Menteng",
+      "localizedDistanceText": null,
+      "locationTitle": null,
+      "locationContext": null,
+      "listingName": "Cozy room on the highest floor@MENTENG PARK",
+      "listingObjType": "REGULAR",
+      "neighborhood": null,
+      "listingPreviewAmenityNames": [
+        "Wifi",
+        "Air conditioning",
+        "Kitchen",
+        "Self check-in"
+      ],
+      "previewTags": [],
+      "publicAddress": "Kecamatan Menteng, Daerah Khusus Ibukota Jakarta, Indonesia",
+      "reviews": [],
+      "reviewsCount": 302,
+      "richKickers": null,
+      "roomType": "Entire home/apt",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "spaceType": "Apartment",
+      "starRating": 5,
+      "summary": null,
+      "wishlistedCount": null,
+      "title": "Apartment in Kecamatan Menteng",
+      "avgRatingLocalized": "4.81 (302)",
+      "accessibilityLabel": "$23 per night",
+      "concatQualifierLeft": false,
+      "price": "$23",
+      "qualifier": "night",
+      "trailingContent": null,
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "checkin": "2023-12-10",
+      "checkout": "2023-12-15",
+      "relaxedAmenityIds": null,
+      "categoryTag": null,
+      "pets": 0,
+      "location": {
+        "mapBoundsHint": {
+          "northeast": {
+            "latitude": -5.684422873463245,
+            "longitude": 106.85060900000002
+          },
+          "southwest": {
+            "latitude": -6.22544,
+            "longitude": 106.56127743475065
+          }
+        },
+        "fallbackMapCenter": {
+          "latitude": -6.180495,
+          "longitude": 106.8283415
+        }
+      },
+      "verified": {
+        "enabled": false,
+        "badgeText": "Plus",
+        "badgeSecondaryText": "Verified",
+        "kickerBadgeType": "filled"
+      },
+      "images": [
+        "https://a0.muscache.com/im/pictures/37465b12-00e8-46ba-a754-00a0adc70ffa.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/95dabdbd-8db8-4dc4-a42a-2a6edb7af61a.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/ca4fe6dc-c8ac-4fe1-84d9-b9719093760b.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/869f72de-0d35-4722-a54c-1fee55f0c87c.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/8362c6a4-aa77-4fb1-8705-19b1991748a5.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/3905f8d1-48bf-4de8-811a-6adaa2779cbd.jpg?im_w=720"
+      ]
+    },
+    {
+      "avgRating": 4.54,
+      "listingBathroomLabel": "1 shared bath",
+      "bathrooms": 1,
+      "listingBedLabel": "1 bed",
+      "bedrooms": 1,
+      "beds": 1,
+      "businessHostLabel": null,
+      "city": "Jakarta",
+      "configurableContent": null,
+      "contextualPicturesPageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ=="
+      },
+      "emergencyMessage": null,
+      "listingFloatingMessage": null,
+      "formattedBadges": [],
+      "listingGuestLabel": "2 guests",
+      "id": "43949279",
+      "isAutoTranslated": false,
+      "isNewListing": false,
+      "isSuperhost": false,
+      "relaxedFilterLabels": null,
+      "localizedCityName": "Jakarta",
+      "localizedDistanceText": null,
+      "locationTitle": null,
+      "locationContext": null,
+      "listingName": "Superior RO 20 Mnt to Airport by Swiss-Belinn",
+      "listingObjType": "REPRESENTATIVE",
+      "neighborhood": null,
+      "listingPreviewAmenityNames": [
+        "Wifi",
+        "Air conditioning",
+        "Self check-in"
+      ],
+      "previewTags": [],
+      "publicAddress": "Jakarta, Jakarta Raya, Indonesia",
+      "reviews": [],
+      "reviewsCount": 54,
+      "richKickers": null,
+      "roomType": "Private room",
+      "roomTypeCategory": "private_room",
+      "roomTypeId": null,
+      "spaceType": "Hotel room",
+      "starRating": 4.5,
+      "summary": null,
+      "wishlistedCount": null,
+      "title": "Hotel in Jakarta",
+      "avgRatingLocalized": "4.54 (54)",
+      "accessibilityLabel": "$38 per night",
+      "concatQualifierLeft": false,
+      "price": "$38",
+      "qualifier": "night",
+      "trailingContent": null,
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "checkin": "2023-12-03",
+      "checkout": "2023-12-08",
+      "relaxedAmenityIds": null,
+      "categoryTag": null,
+      "pets": 0,
+      "location": {
+        "mapBoundsHint": {
+          "northeast": {
+            "latitude": -5.684422873463245,
+            "longitude": 106.85060900000002
+          },
+          "southwest": {
+            "latitude": -6.22544,
+            "longitude": 106.56127743475065
+          }
+        },
+        "fallbackMapCenter": {
+          "latitude": -6.180495,
+          "longitude": 106.8283415
+        }
+      },
+      "verified": {
+        "enabled": false,
+        "badgeText": "Plus",
+        "badgeSecondaryText": "Verified",
+        "kickerBadgeType": "filled"
+      },
+      "images": [
+        "https://a0.muscache.com/im/pictures/45350c56-6fbf-4648-af10-871f9f8cbdf7.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/ee87ed03-bb27-4512-8b05-ab100a4acbf8.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/f285e019-3b56-4d59-86ed-2e2934237206.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-43949279/original/a8b4c05f-2eb4-40fc-b260-7061b411ce38.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/9d05c259-b92e-41ec-aac7-c48900945cfa.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/c92f4c7c-202d-4847-a339-bd2d15f76355.jpg?im_w=720"
+      ]
+    },
+    {
+      "avgRating": 5,
+      "listingBathroomLabel": "1 bath",
+      "bathrooms": 1,
+      "listingBedLabel": "1 bed",
+      "bedrooms": 1,
+      "beds": 1,
+      "businessHostLabel": null,
+      "city": "Kecamatan Menteng",
+      "configurableContent": null,
+      "contextualPicturesPageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ=="
+      },
+      "emergencyMessage": null,
+      "listingFloatingMessage": null,
+      "formattedBadges": [
+        {
+          "textColor": "#222222",
+          "text": "Superhost",
+          "borderColor": "rgba(0, 0, 0, 0.2)",
+          "backgroundColor": "rgba(255, 255, 255, 0.95)"
+        }
+      ],
+      "listingGuestLabel": "2 guests",
+      "id": "561802559680367004",
+      "isAutoTranslated": false,
+      "isNewListing": false,
+      "isSuperhost": true,
+      "relaxedFilterLabels": null,
+      "localizedCityName": "Kecamatan Menteng",
+      "localizedDistanceText": null,
+      "locationTitle": null,
+      "locationContext": null,
+      "listingName": "Monas View Studio | Central Jakarta",
+      "listingObjType": "REGULAR",
+      "neighborhood": null,
+      "listingPreviewAmenityNames": [
+        "Wifi",
+        "Air conditioning",
+        "Kitchen",
+        "Self check-in"
+      ],
+      "previewTags": [],
+      "publicAddress": "Kecamatan Menteng, Daerah Khusus Ibukota Jakarta, Indonesia",
+      "reviews": [],
+      "reviewsCount": 105,
+      "richKickers": null,
+      "roomType": "Entire home/apt",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "spaceType": "Condo",
+      "starRating": 5,
+      "summary": null,
+      "wishlistedCount": null,
+      "title": "Condo in Kecamatan Menteng",
+      "avgRatingLocalized": "5.0 (105)",
+      "accessibilityLabel": "$39 per night",
+      "concatQualifierLeft": false,
+      "price": "$39",
+      "qualifier": "night",
+      "trailingContent": null,
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "checkin": "2023-12-18",
+      "checkout": "2023-12-23",
+      "relaxedAmenityIds": null,
+      "categoryTag": null,
+      "pets": 0,
+      "location": {
+        "mapBoundsHint": {
+          "northeast": {
+            "latitude": -5.684422873463245,
+            "longitude": 106.85060900000002
+          },
+          "southwest": {
+            "latitude": -6.22544,
+            "longitude": 106.56127743475065
+          }
+        },
+        "fallbackMapCenter": {
+          "latitude": -6.180495,
+          "longitude": 106.8283415
+        }
+      },
+      "verified": {
+        "enabled": false,
+        "badgeText": "Plus",
+        "badgeSecondaryText": "Verified",
+        "kickerBadgeType": "filled"
+      },
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-561802559680367004/original/61b37aed-f84b-4e36-ae9b-f7fa6a63ec1e.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-561802559680367004/original/81fe4c30-d367-4fa8-a810-047bdd8eb5e2.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-561802559680367004/original/9121b738-e717-4348-a1e8-ac42059ebdf7.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-561802559680367004/original/aaad4e5b-b7df-4cf5-a5b5-192ba9c85e8a.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-561802559680367004/original/d54ad545-11e9-466e-b871-bcf2fd1117f7.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-561802559680367004/original/a43c6c6f-247b-4918-9aca-ee2df1b4b8f3.jpeg?im_w=720"
+      ]
+    },
+    {
+      "avgRating": null,
+      "listingBathroomLabel": "1 bath",
+      "bathrooms": 1,
+      "listingBedLabel": "1 bed",
+      "bedrooms": 1,
+      "beds": 1,
+      "businessHostLabel": null,
+      "city": "Teluknaga",
+      "configurableContent": null,
+      "contextualPicturesPageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ=="
+      },
+      "emergencyMessage": null,
+      "listingFloatingMessage": null,
+      "formattedBadges": [
+        {
+          "textColor": "#222222",
+          "text": "Superhost",
+          "borderColor": "rgba(0, 0, 0, 0.2)",
+          "backgroundColor": "rgba(255, 255, 255, 0.95)"
+        }
+      ],
+      "listingGuestLabel": "2 guests",
+      "id": "1034645827034938337",
+      "isAutoTranslated": false,
+      "isNewListing": true,
+      "isSuperhost": true,
+      "relaxedFilterLabels": null,
+      "localizedCityName": "Teluknaga",
+      "localizedDistanceText": null,
+      "locationTitle": null,
+      "locationContext": null,
+      "listingName": "aesthetic cozy apartment @pik2",
+      "listingObjType": "REGULAR",
+      "neighborhood": null,
+      "listingPreviewAmenityNames": [
+        "Wifi",
+        "Air conditioning",
+        "Kitchen",
+        "Self check-in"
+      ],
+      "previewTags": [],
+      "publicAddress": "Teluknaga, Banten, Indonesia",
+      "reviews": null,
+      "reviewsCount": 0,
+      "richKickers": null,
+      "roomType": "Entire home/apt",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "spaceType": "Apartment",
+      "starRating": null,
+      "summary": null,
+      "wishlistedCount": null,
+      "title": "Apartment in Teluknaga",
+      "avgRatingLocalized": "New",
+      "accessibilityLabel": "$18 per night",
+      "concatQualifierLeft": false,
+      "price": "$18",
+      "qualifier": "night",
+      "trailingContent": null,
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "checkin": "2023-12-05",
+      "checkout": "2023-12-10",
+      "relaxedAmenityIds": null,
+      "categoryTag": null,
+      "pets": 0,
+      "location": {
+        "mapBoundsHint": {
+          "northeast": {
+            "latitude": -5.684422873463245,
+            "longitude": 106.85060900000002
+          },
+          "southwest": {
+            "latitude": -6.22544,
+            "longitude": 106.56127743475065
+          }
+        },
+        "fallbackMapCenter": {
+          "latitude": -6.180495,
+          "longitude": 106.8283415
+        }
+      },
+      "verified": {
+        "enabled": false,
+        "badgeText": "Plus",
+        "badgeSecondaryText": "Verified",
+        "kickerBadgeType": "filled"
+      },
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1034645827034938337/original/7e1e0421-75ce-4245-b263-61d95e3aac99.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1034645827034938337/original/9646341e-59e5-4524-9cb5-a2c97a025b14.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1034645827034938337/original/e6749fe2-52a4-49b6-aced-15cf19411be5.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1034645827034938337/original/2cd3a422-c541-4b76-8799-428c36cb9d8f.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1034645827034938337/original/134db3df-650f-446b-af23-f9e1de996fe2.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1034645827034938337/original/ccb60bd8-a3f8-4a28-a58e-c104919243b5.jpeg?im_w=720"
+      ]
+    },
+    {
+      "avgRating": 4.83,
+      "listingBathroomLabel": "1 bath",
+      "bathrooms": 1,
+      "listingBedLabel": "2 beds",
+      "bedrooms": 1,
+      "beds": 2,
+      "businessHostLabel": null,
+      "city": "Kecamatan Kalideres",
+      "configurableContent": null,
+      "contextualPicturesPageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ=="
+      },
+      "emergencyMessage": null,
+      "listingFloatingMessage": null,
+      "formattedBadges": [],
+      "listingGuestLabel": "3 guests",
+      "id": "50815945",
+      "isAutoTranslated": false,
+      "isNewListing": false,
+      "isSuperhost": false,
+      "relaxedFilterLabels": null,
+      "localizedCityName": "Kecamatan Kalideres",
+      "localizedDistanceText": null,
+      "locationTitle": null,
+      "locationContext": null,
+      "listingName": "A hanging garden unit at Citra Living, Jakarta",
+      "listingObjType": "REGULAR",
+      "neighborhood": null,
+      "listingPreviewAmenityNames": [
+        "Wifi",
+        "Air conditioning",
+        "Kitchen",
+        "Self check-in"
+      ],
+      "previewTags": [],
+      "publicAddress": "Kecamatan Kalideres, Daerah Khusus Ibukota Jakarta, Indonesia",
+      "reviews": [],
+      "reviewsCount": 81,
+      "richKickers": null,
+      "roomType": "Entire home/apt",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "spaceType": "Apartment",
+      "starRating": 5,
+      "summary": null,
+      "wishlistedCount": null,
+      "title": "Apartment in Kecamatan Kalideres",
+      "avgRatingLocalized": "4.83 (81)",
+      "accessibilityLabel": "$15 per night",
+      "concatQualifierLeft": false,
+      "price": "$15",
+      "qualifier": "night",
+      "trailingContent": null,
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "checkin": "2023-12-02",
+      "checkout": "2023-12-07",
+      "relaxedAmenityIds": null,
+      "categoryTag": null,
+      "pets": 0,
+      "location": {
+        "mapBoundsHint": {
+          "northeast": {
+            "latitude": -5.684422873463245,
+            "longitude": 106.85060900000002
+          },
+          "southwest": {
+            "latitude": -6.22544,
+            "longitude": 106.56127743475065
+          }
+        },
+        "fallbackMapCenter": {
+          "latitude": -6.180495,
+          "longitude": 106.8283415
+        }
+      },
+      "verified": {
+        "enabled": false,
+        "badgeText": "Plus",
+        "badgeSecondaryText": "Verified",
+        "kickerBadgeType": "filled"
+      },
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-50815945/original/e4672d0b-efc8-480e-9458-204b06a8935f.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-50815945/original/2a3c64dd-820d-4029-a62b-73c48c1db5bd.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-50815945/original/401bb4b8-13c3-46dd-9e03-dbb4ad3a9712.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-50815945/original/0ce070a1-d116-42b8-a37f-cbd5f183f32a.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/468dfd68-8131-44d8-9cb7-ff33faf24264.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/edabea51-1d2e-49dd-9548-b1b3de8af094.jpg?im_w=720"
+      ]
+    },
+    {
+      "avgRating": 4.68,
+      "listingBathroomLabel": "1 bath",
+      "bathrooms": 1,
+      "listingBedLabel": "1 bed",
+      "bedrooms": 1,
+      "beds": 1,
+      "businessHostLabel": null,
+      "city": "Kecamatan Grogol petamburan",
+      "configurableContent": null,
+      "contextualPicturesPageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ=="
+      },
+      "emergencyMessage": null,
+      "listingFloatingMessage": null,
+      "formattedBadges": [],
+      "listingGuestLabel": "2 guests",
+      "id": "823750601595003154",
+      "isAutoTranslated": false,
+      "isNewListing": false,
+      "isSuperhost": false,
+      "relaxedFilterLabels": null,
+      "localizedCityName": "Kecamatan Grogol petamburan",
+      "localizedDistanceText": null,
+      "locationTitle": null,
+      "locationContext": null,
+      "listingName": "Cozy Studio Apartement, Netflix, Wifi 50mbps",
+      "listingObjType": "REGULAR",
+      "neighborhood": null,
+      "listingPreviewAmenityNames": ["Wifi", "Air conditioning", "Kitchen"],
+      "previewTags": [],
+      "publicAddress": "Kecamatan Grogol petamburan, Daerah Khusus Ibukota Jakarta, Indonesia",
+      "reviews": [],
+      "reviewsCount": 22,
+      "richKickers": null,
+      "roomType": "Entire home/apt",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "spaceType": "Apartment",
+      "starRating": 4.5,
+      "summary": null,
+      "wishlistedCount": null,
+      "title": "Apartment in Kecamatan Grogol petamburan",
+      "avgRatingLocalized": "4.68 (22)",
+      "accessibilityLabel": "$26 per night",
+      "concatQualifierLeft": false,
+      "price": "$26",
+      "qualifier": "night",
+      "trailingContent": null,
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "checkin": "2023-12-02",
+      "checkout": "2023-12-07",
+      "relaxedAmenityIds": null,
+      "categoryTag": null,
+      "pets": 0,
+      "location": {
+        "mapBoundsHint": {
+          "northeast": {
+            "latitude": -5.684422873463245,
+            "longitude": 106.85060900000002
+          },
+          "southwest": {
+            "latitude": -6.22544,
+            "longitude": 106.56127743475065
+          }
+        },
+        "fallbackMapCenter": {
+          "latitude": -6.180495,
+          "longitude": 106.8283415
+        }
+      },
+      "verified": {
+        "enabled": false,
+        "badgeText": "Plus",
+        "badgeSecondaryText": "Verified",
+        "kickerBadgeType": "filled"
+      },
+      "images": [
+        "https://a0.muscache.com/im/pictures/585ff947-1392-46ad-8f6c-0c1a15bfa298.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/91a31507-561f-4c8e-acc5-3b9880e150b4.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-823750601595003154/original/67c81c79-bfe3-477f-a278-dd4eded9c03f.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/868fba41-427d-4b28-87ba-e3e093917185.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/0815bbf2-7ce2-464e-bf8a-084f6301ec63.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/3f179825-5e66-4d3c-a122-5a83982a0dad.jpg?im_w=720"
+      ]
+    },
+    {
+      "avgRating": 4.7,
+      "listingBathroomLabel": "1 bath",
+      "bathrooms": 1,
+      "listingBedLabel": "1 bed",
+      "bedrooms": 0,
+      "beds": 1,
+      "businessHostLabel": null,
+      "city": "Kecamatan Senen",
+      "configurableContent": null,
+      "contextualPicturesPageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ=="
+      },
+      "emergencyMessage": null,
+      "listingFloatingMessage": null,
+      "formattedBadges": [],
+      "listingGuestLabel": "2 guests",
+      "id": "52801186",
+      "isAutoTranslated": false,
+      "isNewListing": false,
+      "isSuperhost": false,
+      "relaxedFilterLabels": null,
+      "localizedCityName": "Kecamatan Senen",
+      "localizedDistanceText": null,
+      "locationTitle": null,
+      "locationContext": null,
+      "listingName": "Lovely City Center  Studio Apart  City View",
+      "listingObjType": "REGULAR",
+      "neighborhood": null,
+      "listingPreviewAmenityNames": [
+        "Wifi",
+        "Air conditioning",
+        "Kitchen",
+        "Self check-in"
+      ],
+      "previewTags": [],
+      "publicAddress": "Kecamatan Senen, Daerah Khusus Ibukota Jakarta, Indonesia",
+      "reviews": [],
+      "reviewsCount": 40,
+      "richKickers": null,
+      "roomType": "Entire home/apt",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "spaceType": "Apartment",
+      "starRating": 4.5,
+      "summary": null,
+      "wishlistedCount": null,
+      "title": "Apartment in Kecamatan Senen",
+      "avgRatingLocalized": "4.7 (40)",
+      "accessibilityLabel": "$15 per night",
+      "concatQualifierLeft": false,
+      "price": "$15",
+      "qualifier": "night",
+      "trailingContent": null,
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "checkin": "2023-12-02",
+      "checkout": "2023-12-07",
+      "relaxedAmenityIds": null,
+      "categoryTag": null,
+      "pets": 0,
+      "location": {
+        "mapBoundsHint": {
+          "northeast": {
+            "latitude": -5.684422873463245,
+            "longitude": 106.85060900000002
+          },
+          "southwest": {
+            "latitude": -6.22544,
+            "longitude": 106.56127743475065
+          }
+        },
+        "fallbackMapCenter": {
+          "latitude": -6.180495,
+          "longitude": 106.8283415
+        }
+      },
+      "verified": {
+        "enabled": false,
+        "badgeText": "Plus",
+        "badgeSecondaryText": "Verified",
+        "kickerBadgeType": "filled"
+      },
+      "images": [
+        "https://a0.muscache.com/im/pictures/4675dae9-4451-4e95-a223-e4ab98e1f53d.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/f73755b8-4fc1-418b-ab57-b74311ab8772.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/9e84765d-18bd-4f91-bd44-0e45efc7507d.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-52801186/original/fa81409f-069d-46cc-b618-99277290c544.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-52801186/original/36ec51e5-cfcc-4d40-8e88-ccba3115567a.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-52801186/original/b983e33d-069f-4bb6-93e3-61ae1ac8e208.jpeg?im_w=720"
+      ]
+    },
+    {
+      "avgRating": 4.85,
+      "listingBathroomLabel": "1.5 baths",
+      "bathrooms": 1.5,
+      "listingBedLabel": "3 beds",
+      "bedrooms": 2,
+      "beds": 3,
+      "businessHostLabel": null,
+      "city": "Kecamatan Menteng",
+      "configurableContent": null,
+      "contextualPicturesPageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ=="
+      },
+      "emergencyMessage": null,
+      "listingFloatingMessage": null,
+      "formattedBadges": [
+        {
+          "textColor": "#222222",
+          "text": "Superhost",
+          "borderColor": "rgba(0, 0, 0, 0.2)",
+          "backgroundColor": "rgba(255, 255, 255, 0.95)"
+        }
+      ],
+      "listingGuestLabel": "4 guests",
+      "id": "863957506365943169",
+      "isAutoTranslated": false,
+      "isNewListing": false,
+      "isSuperhost": true,
+      "relaxedFilterLabels": null,
+      "localizedCityName": "Kecamatan Menteng",
+      "localizedDistanceText": null,
+      "locationTitle": null,
+      "locationContext": null,
+      "listingName": "Central Designer home-SunsetView",
+      "listingObjType": "REGULAR",
+      "neighborhood": null,
+      "listingPreviewAmenityNames": ["Wifi", "Air conditioning", "Kitchen"],
+      "previewTags": [],
+      "publicAddress": "Kecamatan Menteng, Daerah Khusus Ibukota Jakarta, Indonesia",
+      "reviews": [],
+      "reviewsCount": 53,
+      "richKickers": null,
+      "roomType": "Entire home/apt",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "spaceType": "Apartment",
+      "starRating": 5,
+      "summary": null,
+      "wishlistedCount": null,
+      "title": "Apartment in Kecamatan Menteng",
+      "avgRatingLocalized": "4.85 (53)",
+      "accessibilityLabel": "$70 per night",
+      "concatQualifierLeft": false,
+      "price": "$70",
+      "qualifier": "night",
+      "trailingContent": null,
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "checkin": "2024-01-01",
+      "checkout": "2024-01-06",
+      "relaxedAmenityIds": null,
+      "categoryTag": null,
+      "pets": 0,
+      "location": {
+        "mapBoundsHint": {
+          "northeast": {
+            "latitude": -5.684422873463245,
+            "longitude": 106.85060900000002
+          },
+          "southwest": {
+            "latitude": -6.22544,
+            "longitude": 106.56127743475065
+          }
+        },
+        "fallbackMapCenter": {
+          "latitude": -6.180495,
+          "longitude": 106.8283415
+        }
+      },
+      "verified": {
+        "enabled": false,
+        "badgeText": "Plus",
+        "badgeSecondaryText": "Verified",
+        "kickerBadgeType": "filled"
+      },
+      "images": [
+        "https://a0.muscache.com/im/pictures/d8da34d9-fa51-4eda-8e00-0ffa21801257.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/fd8169af-5fad-4c85-9329-54079d342233.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/76507b6f-f2d7-4c5a-bb71-6a17cd237cf9.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/5132f8df-4a06-4b03-ab7c-110f16e0e7bf.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/77a28a7d-e324-4467-9cf5-d17a04ce0985.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/e0b88503-d561-43c0-b9cd-7e0f2c5d4e57.jpg?im_w=720"
+      ]
+    },
+    {
+      "avgRating": null,
+      "listingBathroomLabel": "2 baths",
+      "bathrooms": 2,
+      "listingBedLabel": "3 beds",
+      "bedrooms": 3,
+      "beds": 3,
+      "businessHostLabel": null,
+      "city": "Kecamatan Setiabudi",
+      "configurableContent": null,
+      "contextualPicturesPageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ=="
+      },
+      "emergencyMessage": null,
+      "listingFloatingMessage": null,
+      "formattedBadges": [
+        {
+          "textColor": "#222222",
+          "text": "Superhost",
+          "borderColor": "rgba(0, 0, 0, 0.2)",
+          "backgroundColor": "rgba(255, 255, 255, 0.95)"
+        }
+      ],
+      "listingGuestLabel": "5 guests",
+      "id": "1012697885938583810",
+      "isAutoTranslated": false,
+      "isNewListing": true,
+      "isSuperhost": true,
+      "relaxedFilterLabels": null,
+      "localizedCityName": "Kecamatan Setiabudi",
+      "localizedDistanceText": null,
+      "locationTitle": null,
+      "locationContext": null,
+      "listingName": "Avane by Kozystay | 3BR | Great View | Kuningan",
+      "listingObjType": "REGULAR",
+      "neighborhood": null,
+      "listingPreviewAmenityNames": [
+        "Wifi",
+        "Air conditioning",
+        "Kitchen",
+        "Self check-in"
+      ],
+      "previewTags": [],
+      "publicAddress": "Kecamatan Setiabudi, Daerah Khusus Ibukota Jakarta, Indonesia",
+      "reviews": null,
+      "reviewsCount": 2,
+      "richKickers": null,
+      "roomType": "Entire home/apt",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "spaceType": "Apartment",
+      "starRating": null,
+      "summary": null,
+      "wishlistedCount": null,
+      "title": "Apartment in Kecamatan Setiabudi",
+      "avgRatingLocalized": "New",
+      "accessibilityLabel": "$97 per night",
+      "concatQualifierLeft": false,
+      "price": "$97",
+      "qualifier": "night",
+      "trailingContent": null,
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "checkin": "2023-12-02",
+      "checkout": "2023-12-07",
+      "relaxedAmenityIds": null,
+      "categoryTag": null,
+      "pets": 0,
+      "location": {
+        "mapBoundsHint": {
+          "northeast": {
+            "latitude": -5.684422873463245,
+            "longitude": 106.85060900000002
+          },
+          "southwest": {
+            "latitude": -6.22544,
+            "longitude": 106.56127743475065
+          }
+        },
+        "fallbackMapCenter": {
+          "latitude": -6.180495,
+          "longitude": 106.8283415
+        }
+      },
+      "verified": {
+        "enabled": false,
+        "badgeText": "Plus",
+        "badgeSecondaryText": "Verified",
+        "kickerBadgeType": "filled"
+      },
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1012697885938583810/original/0bb3f475-bae3-4bc9-ad2b-bdfb3e5c5b0f.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1012697885938583810/original/d1c58d81-aa27-4175-8c19-f435b7a8aa0c.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1012697885938583810/original/61851b53-dc66-4dec-b4ce-8fe2c60ab353.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1012697885938583810/original/ba65a113-1dee-42e5-82fc-b0395f70af79.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1012697885938583810/original/a7fd54ea-4172-40ce-9525-f76c50741ccf.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1012697885938583810/original/6fc54bee-31af-46f1-b1b6-e2cd1efe1738.jpeg?im_w=720"
+      ]
+    },
+    {
+      "avgRating": 4.89,
+      "listingBathroomLabel": "1 bath",
+      "bathrooms": 1,
+      "listingBedLabel": "1 bed",
+      "bedrooms": 1,
+      "beds": 1,
+      "businessHostLabel": null,
+      "city": "Tanah Abang",
+      "configurableContent": null,
+      "contextualPicturesPageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ=="
+      },
+      "emergencyMessage": null,
+      "listingFloatingMessage": null,
+      "formattedBadges": [
+        {
+          "textColor": "#222222",
+          "text": "Superhost",
+          "borderColor": "rgba(0, 0, 0, 0.2)",
+          "backgroundColor": "rgba(255, 255, 255, 0.95)"
+        }
+      ],
+      "listingGuestLabel": "3 guests",
+      "id": "31447097",
+      "isAutoTranslated": false,
+      "isNewListing": false,
+      "isSuperhost": true,
+      "relaxedFilterLabels": null,
+      "localizedCityName": "Tanah Abang",
+      "localizedDistanceText": null,
+      "locationTitle": null,
+      "locationContext": null,
+      "listingName": "A comfy studio Cosmo Terrace in best location",
+      "listingObjType": "REGULAR",
+      "neighborhood": null,
+      "listingPreviewAmenityNames": [
+        "Wifi",
+        "Air conditioning",
+        "Kitchen",
+        "Self check-in"
+      ],
+      "previewTags": [],
+      "publicAddress": "Tanah Abang, Daerah Khusus Ibukota Jakarta, Indonesia",
+      "reviews": [],
+      "reviewsCount": 124,
+      "richKickers": null,
+      "roomType": "Entire home/apt",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "spaceType": "Condo",
+      "starRating": 5,
+      "summary": null,
+      "wishlistedCount": null,
+      "title": "Condo in Tanah Abang",
+      "avgRatingLocalized": "4.89 (124)",
+      "accessibilityLabel": "$25 per night",
+      "concatQualifierLeft": false,
+      "price": "$25",
+      "qualifier": "night",
+      "trailingContent": null,
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "checkin": "2023-12-03",
+      "checkout": "2023-12-08",
+      "relaxedAmenityIds": null,
+      "categoryTag": null,
+      "pets": 0,
+      "location": {
+        "mapBoundsHint": {
+          "northeast": {
+            "latitude": -5.684422873463245,
+            "longitude": 106.85060900000002
+          },
+          "southwest": {
+            "latitude": -6.22544,
+            "longitude": 106.56127743475065
+          }
+        },
+        "fallbackMapCenter": {
+          "latitude": -6.180495,
+          "longitude": 106.8283415
+        }
+      },
+      "verified": {
+        "enabled": false,
+        "badgeText": "Plus",
+        "badgeSecondaryText": "Verified",
+        "kickerBadgeType": "filled"
+      },
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-31447097/original/44b0229c-9dd4-49f5-a383-faac53f1aa3b.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-31447097/original/b9e0eac6-d95d-4bd6-ab67-22e22a4940d7.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-31447097/original/aac1f598-803a-4f94-8eb3-d287a670f033.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-31447097/original/ad0395b9-59a1-4402-8fbd-8a94ce87b5e5.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-31447097/original/1523fb25-bb74-494b-ac82-ff4d4d18d042.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-31447097/original/ab408bb6-283c-44c4-88e5-ed91c8ab7762.jpeg?im_w=720"
+      ]
+    },
+    {
+      "avgRating": null,
+      "listingBathroomLabel": "1 bath",
+      "bathrooms": 1,
+      "listingBedLabel": "1 bed",
+      "bedrooms": 1,
+      "beds": 1,
+      "businessHostLabel": null,
+      "city": "Kecamatan Tanah Abang",
+      "configurableContent": null,
+      "contextualPicturesPageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ=="
+      },
+      "emergencyMessage": null,
+      "listingFloatingMessage": null,
+      "formattedBadges": [
+        {
+          "textColor": "#222222",
+          "text": "Superhost",
+          "borderColor": "rgba(0, 0, 0, 0.2)",
+          "backgroundColor": "rgba(255, 255, 255, 0.95)"
+        }
+      ],
+      "listingGuestLabel": "2 guests",
+      "id": "1025262971578813107",
+      "isAutoTranslated": false,
+      "isNewListing": true,
+      "isSuperhost": true,
+      "relaxedFilterLabels": null,
+      "localizedCityName": "Kecamatan Tanah Abang",
+      "localizedDistanceText": null,
+      "locationTitle": null,
+      "locationContext": null,
+      "listingName": "Luxury 1-bedroom in central Jakarta, SCBD",
+      "listingObjType": "REGULAR",
+      "neighborhood": null,
+      "listingPreviewAmenityNames": [
+        "Wifi",
+        "Air conditioning",
+        "Kitchen",
+        "Self check-in"
+      ],
+      "previewTags": [],
+      "publicAddress": "Kecamatan Tanah Abang, Daerah Khusus Ibukota Jakarta, Indonesia",
+      "reviews": null,
+      "reviewsCount": 0,
+      "richKickers": null,
+      "roomType": "Entire home/apt",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "spaceType": "Apartment",
+      "starRating": null,
+      "summary": null,
+      "wishlistedCount": null,
+      "title": "Apartment in Kecamatan Tanah Abang",
+      "avgRatingLocalized": "New",
+      "accessibilityLabel": "$27 per night",
+      "concatQualifierLeft": false,
+      "price": "$27",
+      "qualifier": "night",
+      "trailingContent": null,
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "checkin": "2023-12-03",
+      "checkout": "2023-12-08",
+      "relaxedAmenityIds": null,
+      "categoryTag": null,
+      "pets": 0,
+      "location": {
+        "mapBoundsHint": {
+          "northeast": {
+            "latitude": -5.684422873463245,
+            "longitude": 106.85060900000002
+          },
+          "southwest": {
+            "latitude": -6.22544,
+            "longitude": 106.56127743475065
+          }
+        },
+        "fallbackMapCenter": {
+          "latitude": -6.180495,
+          "longitude": 106.8283415
+        }
+      },
+      "verified": {
+        "enabled": false,
+        "badgeText": "Plus",
+        "badgeSecondaryText": "Verified",
+        "kickerBadgeType": "filled"
+      },
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1025262971578813107/original/aad321cd-914f-4654-95c0-4ef0e2373405.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1025262971578813107/original/5f43cd23-ea0d-46c0-9976-27f7af926c33.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1025262971578813107/original/6c4025fc-4722-4264-85a1-7d3a6022c443.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1025262971578813107/original/3e67ff62-814d-4334-bb0b-7b3d12e418de.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1025262971578813107/original/1dc7a0c8-99d5-4efa-9b45-08b5ca125491.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1025262971578813107/original/34a42124-17a7-46e7-bc79-7c14fa432f62.jpeg?im_w=720"
+      ]
+    },
+    {
+      "avgRating": 4.81,
+      "listingBathroomLabel": "1 bath",
+      "bathrooms": 1,
+      "listingBedLabel": "1 bed",
+      "bedrooms": 1,
+      "beds": 1,
+      "businessHostLabel": null,
+      "city": "Kecamatan Grogol petamburan",
+      "configurableContent": null,
+      "contextualPicturesPageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ=="
+      },
+      "emergencyMessage": null,
+      "listingFloatingMessage": null,
+      "formattedBadges": [
+        {
+          "textColor": "#222222",
+          "text": "Superhost",
+          "borderColor": "rgba(0, 0, 0, 0.2)",
+          "backgroundColor": "rgba(255, 255, 255, 0.95)"
+        }
+      ],
+      "listingGuestLabel": "2 guests",
+      "id": "42519756",
+      "isAutoTranslated": false,
+      "isNewListing": false,
+      "isSuperhost": true,
+      "relaxedFilterLabels": null,
+      "localizedCityName": "Kecamatan Grogol petamburan",
+      "localizedDistanceText": null,
+      "locationTitle": null,
+      "locationContext": null,
+      "listingName": "26R Nicely Studio connected to mall - F",
+      "listingObjType": "REGULAR",
+      "neighborhood": null,
+      "listingPreviewAmenityNames": [
+        "Wifi",
+        "Air conditioning",
+        "Kitchen",
+        "Self check-in"
+      ],
+      "previewTags": [],
+      "publicAddress": "Kecamatan Grogol petamburan, Daerah Khusus Ibukota Jakarta, Indonesia",
+      "reviews": [],
+      "reviewsCount": 164,
+      "richKickers": null,
+      "roomType": "Entire home/apt",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "spaceType": "Apartment",
+      "starRating": 5,
+      "summary": null,
+      "wishlistedCount": null,
+      "title": "Apartment in Kecamatan Grogol petamburan",
+      "avgRatingLocalized": "4.81 (164)",
+      "accessibilityLabel": "$26 per night",
+      "concatQualifierLeft": false,
+      "price": "$26",
+      "qualifier": "night",
+      "trailingContent": null,
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "checkin": "2023-12-31",
+      "checkout": "2024-01-05",
+      "relaxedAmenityIds": null,
+      "categoryTag": null,
+      "pets": 0,
+      "location": {
+        "mapBoundsHint": {
+          "northeast": {
+            "latitude": -5.684422873463245,
+            "longitude": 106.85060900000002
+          },
+          "southwest": {
+            "latitude": -6.22544,
+            "longitude": 106.56127743475065
+          }
+        },
+        "fallbackMapCenter": {
+          "latitude": -6.180495,
+          "longitude": 106.8283415
+        }
+      },
+      "verified": {
+        "enabled": false,
+        "badgeText": "Plus",
+        "badgeSecondaryText": "Verified",
+        "kickerBadgeType": "filled"
+      },
+      "images": [
+        "https://a0.muscache.com/im/pictures/efe4a6e5-7204-4447-9fd4-1d5c979eb027.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/c9abcf03-bfa1-45e0-8845-ce028ec052d3.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/6859a12b-65a4-46ba-b205-c8b990f41342.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/8a073a10-20c5-433b-8794-381cee50e8ef.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/3bb7fb35-7f8a-44c9-878c-2dd9b36b07e4.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/4ad155f5-f797-45d4-8adb-c4b6237838b0.jpg?im_w=720"
+      ]
+    },
+    {
+      "avgRating": 4.92,
+      "listingBathroomLabel": "1 bath",
+      "bathrooms": 1,
+      "listingBedLabel": "1 bed",
+      "bedrooms": 1,
+      "beds": 1,
+      "businessHostLabel": null,
+      "city": "Kota Jakarta Pusat",
+      "configurableContent": null,
+      "contextualPicturesPageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ=="
+      },
+      "emergencyMessage": null,
+      "listingFloatingMessage": null,
+      "formattedBadges": [
+        {
+          "textColor": "#222222",
+          "text": "Superhost",
+          "borderColor": "rgba(0, 0, 0, 0.2)",
+          "backgroundColor": "rgba(255, 255, 255, 0.95)"
+        }
+      ],
+      "listingGuestLabel": "2 guests",
+      "id": "14002087",
+      "isAutoTranslated": false,
+      "isNewListing": false,
+      "isSuperhost": true,
+      "relaxedFilterLabels": null,
+      "localizedCityName": "Kota Jakarta Pusat",
+      "localizedDistanceText": null,
+      "locationTitle": null,
+      "locationContext": null,
+      "listingName": "[RARE] LUXURY 1BR Central Jakarta (Free WIFI)",
+      "listingObjType": "REGULAR",
+      "neighborhood": null,
+      "listingPreviewAmenityNames": [
+        "Wifi",
+        "Air conditioning",
+        "Kitchen",
+        "Self check-in"
+      ],
+      "previewTags": [],
+      "publicAddress": "Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta, Indonesia",
+      "reviews": [],
+      "reviewsCount": 61,
+      "richKickers": null,
+      "roomType": "Entire home/apt",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "spaceType": "Apartment",
+      "starRating": 5,
+      "summary": null,
+      "wishlistedCount": null,
+      "title": "Apartment in Kota Jakarta Pusat",
+      "avgRatingLocalized": "4.92 (61)",
+      "accessibilityLabel": "$29 per night",
+      "concatQualifierLeft": false,
+      "price": "$29",
+      "qualifier": "night",
+      "trailingContent": null,
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "checkin": "2023-12-13",
+      "checkout": "2023-12-18",
+      "relaxedAmenityIds": null,
+      "categoryTag": null,
+      "pets": 0,
+      "location": {
+        "mapBoundsHint": {
+          "northeast": {
+            "latitude": -5.684422873463245,
+            "longitude": 106.85060900000002
+          },
+          "southwest": {
+            "latitude": -6.22544,
+            "longitude": 106.56127743475065
+          }
+        },
+        "fallbackMapCenter": {
+          "latitude": -6.180495,
+          "longitude": 106.8283415
+        }
+      },
+      "verified": {
+        "enabled": false,
+        "badgeText": "Plus",
+        "badgeSecondaryText": "Verified",
+        "kickerBadgeType": "filled"
+      },
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-14002087/original/b38388b3-d0db-48ef-82ee-ba2fd0e672e2.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-14002087/original/8e83be06-35e0-4de7-b4e8-709a9a53e093.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-14002087/original/992da6af-9927-484a-a846-6e183bd647f6.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-14002087/original/89b82ba9-1940-4ec3-9a20-20b5fb69b3b8.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-14002087/original/6476a6a7-485c-4174-89c7-0f3b2f9fcbac.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-14002087/original/2a83abb9-a2cf-48b3-8885-de2d36eb3de5.jpeg?im_w=720"
+      ]
+    },
+    {
+      "avgRating": 4.73,
+      "listingBathroomLabel": "1 bath",
+      "bathrooms": 1,
+      "listingBedLabel": "1 bed",
+      "bedrooms": 1,
+      "beds": 1,
+      "businessHostLabel": null,
+      "city": "Kecamatan Menteng",
+      "configurableContent": null,
+      "contextualPicturesPageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ=="
+      },
+      "emergencyMessage": null,
+      "listingFloatingMessage": null,
+      "formattedBadges": [],
+      "listingGuestLabel": "2 guests",
+      "id": "968689217830699181",
+      "isAutoTranslated": true,
+      "isNewListing": false,
+      "isSuperhost": false,
+      "relaxedFilterLabels": null,
+      "localizedCityName": "Kecamatan Menteng",
+      "localizedDistanceText": null,
+      "locationTitle": null,
+      "locationContext": null,
+      "listingName": "Menteng Park Studio Apartment 30th Floor Monas View",
+      "listingObjType": "REGULAR",
+      "neighborhood": null,
+      "listingPreviewAmenityNames": [
+        "Wifi",
+        "Air conditioning",
+        "Kitchen",
+        "Self check-in"
+      ],
+      "previewTags": [],
+      "publicAddress": "Kecamatan Menteng, Daerah Khusus Ibukota Jakarta, Indonesia",
+      "reviews": [],
+      "reviewsCount": 11,
+      "richKickers": null,
+      "roomType": "Entire home/apt",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "spaceType": "Apartment",
+      "starRating": 5,
+      "summary": null,
+      "wishlistedCount": null,
+      "title": "Apartment in Kecamatan Menteng",
+      "avgRatingLocalized": "4.73 (11)",
+      "accessibilityLabel": "$24 per night",
+      "concatQualifierLeft": false,
+      "price": "$24",
+      "qualifier": "night",
+      "trailingContent": null,
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "checkin": "2024-01-18",
+      "checkout": "2024-01-23",
+      "relaxedAmenityIds": null,
+      "categoryTag": null,
+      "pets": 0,
+      "location": {
+        "mapBoundsHint": {
+          "northeast": {
+            "latitude": -5.684422873463245,
+            "longitude": 106.85060900000002
+          },
+          "southwest": {
+            "latitude": -6.22544,
+            "longitude": 106.56127743475065
+          }
+        },
+        "fallbackMapCenter": {
+          "latitude": -6.180495,
+          "longitude": 106.8283415
+        }
+      },
+      "verified": {
+        "enabled": false,
+        "badgeText": "Plus",
+        "badgeSecondaryText": "Verified",
+        "kickerBadgeType": "filled"
+      },
+      "images": [
+        "https://a0.muscache.com/im/pictures/db8a1141-bd25-45fb-b210-0fe337b13612.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/6e78045f-65e4-4b15-a1f2-bf087ff11659.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/01485c77-50e0-45cd-ab49-c9ed376edd5a.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/295bd3e5-3428-45de-8660-aff300e3e376.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/5a715de2-7568-4461-b6e2-dce7a9cf9bc3.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/e6b2fc8e-a458-47fa-893b-fb239266091a.jpg?im_w=720"
+      ]
+    },
+    {
+      "avgRating": 4.9,
+      "listingBathroomLabel": "1 bath",
+      "bathrooms": 1,
+      "listingBedLabel": "1 bed",
+      "bedrooms": 1,
+      "beds": 1,
+      "businessHostLabel": null,
+      "city": "Kemayoran",
+      "configurableContent": null,
+      "contextualPicturesPageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ=="
+      },
+      "emergencyMessage": null,
+      "listingFloatingMessage": null,
+      "formattedBadges": [
+        {
+          "textColor": "#222222",
+          "text": "Superhost",
+          "borderColor": "rgba(0, 0, 0, 0.2)",
+          "backgroundColor": "rgba(255, 255, 255, 0.95)"
+        }
+      ],
+      "listingGuestLabel": "2 guests",
+      "id": "28440122",
+      "isAutoTranslated": false,
+      "isNewListing": false,
+      "isSuperhost": true,
+      "relaxedFilterLabels": null,
+      "localizedCityName": "Kemayoran",
+      "localizedDistanceText": null,
+      "locationTitle": null,
+      "locationContext": null,
+      "listingName": "An urban tropical house, oase in Central Jakarta",
+      "listingObjType": "REGULAR",
+      "neighborhood": null,
+      "listingPreviewAmenityNames": ["Wifi", "Air conditioning", "Kitchen"],
+      "previewTags": [],
+      "publicAddress": "Kemayoran, Daerah Khusus Ibukota Jakarta, Indonesia",
+      "reviews": [],
+      "reviewsCount": 203,
+      "richKickers": null,
+      "roomType": "Entire home/apt",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "spaceType": "Guest suite",
+      "starRating": 5,
+      "summary": null,
+      "wishlistedCount": null,
+      "title": "Guest suite in Kemayoran",
+      "avgRatingLocalized": "4.9 (203)",
+      "accessibilityLabel": "$18 per night",
+      "concatQualifierLeft": false,
+      "price": "$18",
+      "qualifier": "night",
+      "trailingContent": null,
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "checkin": "2023-12-16",
+      "checkout": "2023-12-21",
+      "relaxedAmenityIds": null,
+      "categoryTag": null,
+      "pets": 0,
+      "location": {
+        "mapBoundsHint": {
+          "northeast": {
+            "latitude": -5.684422873463245,
+            "longitude": 106.85060900000002
+          },
+          "southwest": {
+            "latitude": -6.22544,
+            "longitude": 106.56127743475065
+          }
+        },
+        "fallbackMapCenter": {
+          "latitude": -6.180495,
+          "longitude": 106.8283415
+        }
+      },
+      "verified": {
+        "enabled": false,
+        "badgeText": "Plus",
+        "badgeSecondaryText": "Verified",
+        "kickerBadgeType": "filled"
+      },
+      "images": [
+        "https://a0.muscache.com/im/pictures/aaa61bf3-411f-41db-ab80-fabfb1aa6a1d.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/d1d4c03e-a354-4ed0-b4ac-530c1aec2ddc.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/46239439-a1b3-475b-bba6-4b195ffe2a94.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/f0c25a47-03cb-4f98-a4bf-7c8a53f13d51.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/06fe34dd-3288-4668-9cf7-08fdafd6aead.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/eb0a40c2-1fd3-4eec-91cc-2baf0e0184e2.jpg?im_w=720"
+      ]
+    },
+    {
+      "avgRating": 4.93,
+      "listingBathroomLabel": "1 bath",
+      "bathrooms": 1,
+      "listingBedLabel": "1 bed",
+      "bedrooms": 0,
+      "beds": 1,
+      "businessHostLabel": null,
+      "city": "South Jakarta",
+      "configurableContent": null,
+      "contextualPicturesPageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ=="
+      },
+      "emergencyMessage": null,
+      "listingFloatingMessage": null,
+      "formattedBadges": [
+        {
+          "textColor": "#222222",
+          "text": "Superhost",
+          "borderColor": "rgba(0, 0, 0, 0.2)",
+          "backgroundColor": "rgba(255, 255, 255, 0.95)"
+        }
+      ],
+      "listingGuestLabel": "1 guest",
+      "id": "12575863",
+      "isAutoTranslated": true,
+      "isNewListing": false,
+      "isSuperhost": true,
+      "relaxedFilterLabels": null,
+      "localizedCityName": "South Jakarta",
+      "localizedDistanceText": null,
+      "locationTitle": null,
+      "locationContext": null,
+      "listingName": "Adm. Semanggi,  stay in the HEART of the CITY",
+      "listingObjType": "REGULAR",
+      "neighborhood": null,
+      "listingPreviewAmenityNames": ["Wifi", "Air conditioning", "Kitchen"],
+      "previewTags": [],
+      "publicAddress": "South Jakarta, Special Capital Region of Jakarta, Indonesia",
+      "reviews": [],
+      "reviewsCount": 120,
+      "richKickers": null,
+      "roomType": "Entire home/apt",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "spaceType": "Apartment",
+      "starRating": 5,
+      "summary": null,
+      "wishlistedCount": null,
+      "title": "Apartment in South Jakarta",
+      "avgRatingLocalized": "4.93 (120)",
+      "accessibilityLabel": "$23 per night",
+      "concatQualifierLeft": false,
+      "price": "$23",
+      "qualifier": "night",
+      "trailingContent": null,
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "checkin": "2023-12-11",
+      "checkout": "2023-12-16",
+      "relaxedAmenityIds": null,
+      "categoryTag": null,
+      "pets": 0,
+      "location": {
+        "mapBoundsHint": {
+          "northeast": {
+            "latitude": -5.684422873463245,
+            "longitude": 106.85060900000002
+          },
+          "southwest": {
+            "latitude": -6.22544,
+            "longitude": 106.56127743475065
+          }
+        },
+        "fallbackMapCenter": {
+          "latitude": -6.180495,
+          "longitude": 106.8283415
+        }
+      },
+      "verified": {
+        "enabled": false,
+        "badgeText": "Plus",
+        "badgeSecondaryText": "Verified",
+        "kickerBadgeType": "filled"
+      },
+      "images": [
+        "https://a0.muscache.com/im/pictures/0a8c977e-315c-4649-b80f-54ebdf3d0e36.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/e3114095-b392-4128-bf39-f047b2f60d37.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-12575863/original/da77dba8-0c99-4fb8-8710-0a5a38e7688b.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-12575863/original/76fc280d-ae48-4fc1-9e5c-fba88fea9add.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/22ebc02f-fd52-4ea7-8616-a9ecdf774cf5.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-12575863/original/9d683378-b768-493d-9e7d-c6d44a392d5e.jpeg?im_w=720"
+      ]
+    },
+    {
+      "avgRating": 5,
+      "listingBathroomLabel": "1 bath",
+      "bathrooms": 1,
+      "listingBedLabel": "1 bed",
+      "bedrooms": 1,
+      "beds": 1,
+      "businessHostLabel": null,
+      "city": "Kecamatan Menteng",
+      "configurableContent": null,
+      "contextualPicturesPageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ=="
+      },
+      "emergencyMessage": null,
+      "listingFloatingMessage": null,
+      "formattedBadges": [
+        {
+          "textColor": "#222222",
+          "text": "Superhost",
+          "borderColor": "rgba(0, 0, 0, 0.2)",
+          "backgroundColor": "rgba(255, 255, 255, 0.95)"
+        }
+      ],
+      "listingGuestLabel": "2 guests",
+      "id": "1004224593301917096",
+      "isAutoTranslated": false,
+      "isNewListing": false,
+      "isSuperhost": true,
+      "relaxedFilterLabels": null,
+      "localizedCityName": "Kecamatan Menteng",
+      "localizedDistanceText": null,
+      "locationTitle": null,
+      "locationContext": null,
+      "listingName": "Serenia by Kozystay | Studio | Nice View | Menteng",
+      "listingObjType": "REGULAR",
+      "neighborhood": null,
+      "listingPreviewAmenityNames": [
+        "Wifi",
+        "Air conditioning",
+        "Kitchen",
+        "Self check-in"
+      ],
+      "previewTags": [],
+      "publicAddress": "Kecamatan Menteng, Daerah Khusus Ibukota Jakarta, Indonesia",
+      "reviews": null,
+      "reviewsCount": 3,
+      "richKickers": null,
+      "roomType": "Entire home/apt",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "spaceType": "Apartment",
+      "starRating": 5,
+      "summary": null,
+      "wishlistedCount": null,
+      "title": "Apartment in Kecamatan Menteng",
+      "avgRatingLocalized": "5.0 (3)",
+      "accessibilityLabel": "$36 per night",
+      "concatQualifierLeft": false,
+      "price": "$36",
+      "qualifier": "night",
+      "trailingContent": null,
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "checkin": "2023-12-02",
+      "checkout": "2023-12-07",
+      "relaxedAmenityIds": null,
+      "categoryTag": null,
+      "pets": 0,
+      "location": {
+        "mapBoundsHint": {
+          "northeast": {
+            "latitude": -5.684422873463245,
+            "longitude": 106.85060900000002
+          },
+          "southwest": {
+            "latitude": -6.22544,
+            "longitude": 106.56127743475065
+          }
+        },
+        "fallbackMapCenter": {
+          "latitude": -6.180495,
+          "longitude": 106.8283415
+        }
+      },
+      "verified": {
+        "enabled": false,
+        "badgeText": "Plus",
+        "badgeSecondaryText": "Verified",
+        "kickerBadgeType": "filled"
+      },
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1004224593301917096/original/81c542e7-8c3d-4b9c-8b3c-6a91187de906.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1004224593301917096/original/61901e0b-5e4c-4355-a79f-d418ae064296.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1004224593301917096/original/38d6cd28-3ac7-4efe-b76f-5ec8580fb66e.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1004224593301917096/original/90eb1e8e-26ba-4d85-9919-37fa6898dbcb.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1004224593301917096/original/8927240b-43c4-4488-bae7-a58f66ad7721.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-1004224593301917096/original/5653b688-b210-4b1d-a7f7-2fca7551e0d0.jpeg?im_w=720"
+      ]
+    },
+    {
+      "avgRating": 5,
+      "listingBathroomLabel": "1 bath",
+      "bathrooms": 1,
+      "listingBedLabel": "2 beds",
+      "bedrooms": 1,
+      "beds": 2,
+      "businessHostLabel": null,
+      "city": "North Kepulauan Seribu",
+      "configurableContent": null,
+      "contextualPicturesPageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ=="
+      },
+      "emergencyMessage": null,
+      "listingFloatingMessage": null,
+      "formattedBadges": [],
+      "listingGuestLabel": "4 guests",
+      "id": "910598035464252348",
+      "isAutoTranslated": false,
+      "isNewListing": false,
+      "isSuperhost": false,
+      "relaxedFilterLabels": null,
+      "localizedCityName": "North Kepulauan Seribu",
+      "localizedDistanceText": null,
+      "locationTitle": null,
+      "locationContext": null,
+      "listingName": "Bamboo Hut @ Desa Laguna Regenerative Resort",
+      "listingObjType": "REGULAR",
+      "neighborhood": null,
+      "listingPreviewAmenityNames": [],
+      "previewTags": [],
+      "publicAddress": "North Kepulauan Seribu, Jakarta, Indonesia",
+      "reviews": [],
+      "reviewsCount": 5,
+      "richKickers": null,
+      "roomType": "Entire home/apt",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "spaceType": "Island",
+      "starRating": 5,
+      "summary": null,
+      "wishlistedCount": null,
+      "title": "Island in North Kepulauan Seribu",
+      "avgRatingLocalized": "5.0 (5)",
+      "accessibilityLabel": "$129 per night",
+      "concatQualifierLeft": false,
+      "price": "$129",
+      "qualifier": "night",
+      "trailingContent": null,
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "checkin": "2023-12-10",
+      "checkout": "2023-12-15",
+      "relaxedAmenityIds": null,
+      "categoryTag": null,
+      "pets": 0,
+      "location": {
+        "mapBoundsHint": {
+          "northeast": {
+            "latitude": -5.684422873463245,
+            "longitude": 106.85060900000002
+          },
+          "southwest": {
+            "latitude": -6.22544,
+            "longitude": 106.56127743475065
+          }
+        },
+        "fallbackMapCenter": {
+          "latitude": -6.180495,
+          "longitude": 106.8283415
+        }
+      },
+      "verified": {
+        "enabled": false,
+        "badgeText": "Plus",
+        "badgeSecondaryText": "Verified",
+        "kickerBadgeType": "filled"
+      },
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-910598035464252348/original/54a05c45-bb9e-404b-9c29-3da675e90cbd.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-910598035464252348/original/f40975b6-1b6f-44f2-979e-ee26c9d28ad1.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-910598035464252348/original/5f0f4c06-b159-46ca-918b-0483c96a8e5e.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-910598035464252348/original/c65b8ec2-9718-495a-8265-3eb41f07fd6e.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-910598035464252348/original/0d4d0388-9664-4043-b67e-ddbcd563ca42.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-910598035464252348/original/a590655b-b60b-4a62-8fc4-8a0bb9fea2b1.jpeg?im_w=720"
+      ]
+    },
+    {
+      "avgRating": 4.81,
+      "listingBathroomLabel": "1 bath",
+      "bathrooms": 1,
+      "listingBedLabel": "1 bed",
+      "bedrooms": 0,
+      "beds": 1,
+      "businessHostLabel": null,
+      "city": "Kecamatan Senen",
+      "configurableContent": null,
+      "contextualPicturesPageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ=="
+      },
+      "emergencyMessage": null,
+      "listingFloatingMessage": null,
+      "formattedBadges": [
+        {
+          "textColor": "#222222",
+          "text": "Superhost",
+          "borderColor": "rgba(0, 0, 0, 0.2)",
+          "backgroundColor": "rgba(255, 255, 255, 0.95)"
+        }
+      ],
+      "listingGuestLabel": "2 guests",
+      "id": "34981691",
+      "isAutoTranslated": false,
+      "isNewListing": false,
+      "isSuperhost": true,
+      "relaxedFilterLabels": null,
+      "localizedCityName": "Kecamatan Senen",
+      "localizedDistanceText": null,
+      "locationTitle": null,
+      "locationContext": null,
+      "listingName": "The WritersRoom, Capitol Suites-Menteng-1km Gambir",
+      "listingObjType": "REGULAR",
+      "neighborhood": null,
+      "listingPreviewAmenityNames": [
+        "Wifi",
+        "Air conditioning",
+        "Kitchen",
+        "Self check-in"
+      ],
+      "previewTags": [],
+      "publicAddress": "Kecamatan Senen, Daerah Khusus Ibukota Jakarta, Indonesia",
+      "reviews": [],
+      "reviewsCount": 203,
+      "richKickers": null,
+      "roomType": "Entire home/apt",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "spaceType": "Apartment",
+      "starRating": 5,
+      "summary": null,
+      "wishlistedCount": null,
+      "title": "Apartment in Kecamatan Senen",
+      "avgRatingLocalized": "4.81 (203)",
+      "accessibilityLabel": "$31 per night",
+      "concatQualifierLeft": false,
+      "price": "$31",
+      "qualifier": "night",
+      "trailingContent": null,
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "checkin": "2023-12-04",
+      "checkout": "2023-12-09",
+      "relaxedAmenityIds": null,
+      "categoryTag": null,
+      "pets": 0,
+      "location": {
+        "mapBoundsHint": {
+          "northeast": {
+            "latitude": -5.684422873463245,
+            "longitude": 106.85060900000002
+          },
+          "southwest": {
+            "latitude": -6.22544,
+            "longitude": 106.56127743475065
+          }
+        },
+        "fallbackMapCenter": {
+          "latitude": -6.180495,
+          "longitude": 106.8283415
+        }
+      },
+      "verified": {
+        "enabled": false,
+        "badgeText": "Plus",
+        "badgeSecondaryText": "Verified",
+        "kickerBadgeType": "filled"
+      },
+      "images": [
+        "https://a0.muscache.com/im/pictures/87fe8b75-ab58-49ce-805f-ffdf1367290a.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/ee972e81-6e3b-4649-8405-12cb10bac563.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/59e8e133-55d5-4483-ab81-1c72f2b1a4f8.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/cb4b4232-41f9-4445-b056-5025f87f8374.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/0691fecf-9462-4a70-9021-03508e510f40.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/c2ab706a-8932-49e4-9777-c37a7f5fcd4e.jpg?im_w=720"
+      ]
+    },
+    {
+      "avgRating": 4.95,
+      "listingBathroomLabel": "1 bath",
+      "bathrooms": 1,
+      "listingBedLabel": "1 bed",
+      "bedrooms": 1,
+      "beds": 1,
+      "businessHostLabel": null,
+      "city": "Tebet",
+      "configurableContent": null,
+      "contextualPicturesPageInfo": {
+        "hasNextPage": true,
+        "endCursor": "NQ=="
+      },
+      "emergencyMessage": null,
+      "listingFloatingMessage": null,
+      "formattedBadges": [
+        {
+          "textColor": "#222222",
+          "text": "Superhost",
+          "borderColor": "rgba(0, 0, 0, 0.2)",
+          "backgroundColor": "rgba(255, 255, 255, 0.95)"
+        }
+      ],
+      "listingGuestLabel": "2 guests",
+      "id": "18248836",
+      "isAutoTranslated": false,
+      "isNewListing": false,
+      "isSuperhost": true,
+      "relaxedFilterLabels": null,
+      "localizedCityName": "Tebet",
+      "localizedDistanceText": null,
+      "locationTitle": null,
+      "locationContext": null,
+      "listingName": "Casa Grande Residence Apartment",
+      "listingObjType": "REGULAR",
+      "neighborhood": null,
+      "listingPreviewAmenityNames": ["Wifi", "Air conditioning", "Kitchen"],
+      "previewTags": [],
+      "publicAddress": "Tebet, DKI Jakarta, Indonesia",
+      "reviews": [],
+      "reviewsCount": 56,
+      "richKickers": null,
+      "roomType": "Entire home/apt",
+      "roomTypeCategory": "entire_home",
+      "roomTypeId": null,
+      "spaceType": "Apartment",
+      "starRating": 5,
+      "summary": null,
+      "wishlistedCount": null,
+      "title": "Apartment in Tebet",
+      "avgRatingLocalized": "4.95 (56)",
+      "accessibilityLabel": "$36 per night",
+      "concatQualifierLeft": false,
+      "price": "$36",
+      "qualifier": "night",
+      "trailingContent": null,
+      "adults": 1,
+      "children": 0,
+      "infants": 0,
+      "checkin": "2023-12-08",
+      "checkout": "2023-12-13",
+      "relaxedAmenityIds": null,
+      "categoryTag": null,
+      "pets": 0,
+      "location": {
+        "mapBoundsHint": {
+          "northeast": {
+            "latitude": -5.684422873463245,
+            "longitude": 106.85060900000002
+          },
+          "southwest": {
+            "latitude": -6.22544,
+            "longitude": 106.56127743475065
+          }
+        },
+        "fallbackMapCenter": {
+          "latitude": -6.180495,
+          "longitude": 106.8283415
+        }
+      },
+      "verified": {
+        "enabled": false,
+        "badgeText": "Plus",
+        "badgeSecondaryText": "Verified",
+        "kickerBadgeType": "filled"
+      },
+      "images": [
+        "https://a0.muscache.com/im/pictures/565a0601-c93b-4a09-b0f7-bf1f64af9cab.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/7b58ee71-d7eb-44e6-b0b0-8a08f2bbbed9.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/1b185b8b-d298-42d5-ae46-c2a2c9f03e17.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/e9d6c44a-c8e1-491e-ab3f-62ffc6cd2dca.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/1443dfc1-ad9a-43f9-b5ed-ccc1c8a56457.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/e2b1278a-ed90-4eb4-996d-d114225a4186.jpg?im_w=720"
+      ]
+    }
+  ]
+}
