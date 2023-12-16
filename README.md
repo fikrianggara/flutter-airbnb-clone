@@ -10,7 +10,11 @@ Todo :
 - [ ] add more screen
 - [ ] add basic functionality
 
-to run this apps :
+to run this apps, you'll need :
+- `Flutter 3.13.8+`
+- `Dart 3.1.4+`
+
+ command to run the apps :
 - on browser (chrome)
   ```
   flutter run -d Chrome
