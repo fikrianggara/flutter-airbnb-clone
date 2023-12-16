@@ -1,14 +1,23 @@
 # airbnb clone
 
-## Getting Started
+airbnb UI clone built with flutter.
+some screen that has been built such as :
+ - [X] home screen
+ - [X] detail screen
+ - [X] search screen
 
-This project is a starting point for a Flutter application.
+Todo :
+- [ ] add more screen
+- [ ] add basic functionality
 
-A few resources to get you started if this is your first Flutter project:
+to run this apps :
+- on browser (chrome)
+  ```
+  flutter run -d Chrome
+  ```
+- on ios (simulator)
+  ```
+  open -a simulator
+  flutter run
+  ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
