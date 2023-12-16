@@ -1,6 +1,4 @@
-# dicoding_flutter_basic_submission_1
-
-A new Flutter project.
+# airbnb clone
 
 ## Getting Started
 
